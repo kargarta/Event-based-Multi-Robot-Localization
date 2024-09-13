@@ -25,6 +25,7 @@ You can install the required Python libraries using the following command:
 ```bash
 pip install -r requirements.txt
 
+
 Setup and Usage
 
 Clone the repository to your local machine:
